@@ -1,0 +1,46 @@
+.card {
+	border: none;
+}
+
+footer a {
+	color: #ffffff;
+}
+
+footer a:hover {
+	text-decoration: none;
+	color: #90D4EA;
+}
+
+.footer-title {
+	color: #90D4EA;
+}
+
+.icon-footer:hover {
+	transition: 0.2s;
+	color: #8d8d8d;
+}
+
+.icon-style-face {
+	color: #3b5998;
+}
+
+.icon-style-twitter {
+	color: #00aced;
+}
+
+.icon-style-insta {
+	color: #517fa4;
+}
+
+.icon-style-pinterest, .icon-style-youtube {
+	color: #bb0000;
+}
+
+.icon-style-face:hover, 
+.icon-style-twitter:hover,
+.icon-style-insta:hover,
+.icon-style-pinterest:hover,
+.icon-style-youtube:hover {
+	color: #8d8d8d;
+	transition: 0.2s;
+}
